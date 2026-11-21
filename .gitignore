@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# Local reference images, crops and test renders (not part of the app)
+images/
+scratch/
+
+# Optional local sprite packs: add your own art here, it isn't published
+assets/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
